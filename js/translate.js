@@ -17,7 +17,3 @@ export const translate = (input) => {
     .join(" ")
     .replace(/  +/g, " ");
 };
-
-export const sum = (a, b) => {
-  return a + b;
-};
