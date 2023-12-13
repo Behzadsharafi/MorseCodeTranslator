@@ -1,4 +1,4 @@
-name: Github Actions Example
+name: unitTests.yml
 
 on:
   pull_request:
