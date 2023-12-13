@@ -1,3 +1,3 @@
 # MorseCodeTranslator
 
-![Workflow Badge](https://github.com/Behzadsharafi/MorseCodeTranslator/actions/workflows/morseKey.test.js/badge.svg)
+[![GitHub Repo Size in Bytes](https://img.shields.io/github/languages/code-size/behzadsharafi/MorseCodeTranslator)](https://github.com/Behzadsharafi/MorseCodeTranslator)
