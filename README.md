@@ -3,10 +3,10 @@
 
 <div align='center'>
 
-<h1> 👔 Morse Code Translator 👗</h1>
-<p>A clothing e-shop full stack website developed in React.JS, SCSS, with Google Firestore realtime integration.  </p>
+<h1> 🔣 Morse Code Translator 📟</h1>
+<p>Explore the world of communication through my Morse Code Translator project crafted with JavaScript, Html and CSS. This interactive web application converts text to Morse code and vice versa, providing a user-friendly experience. I utilized Jest to test the application. The user can type in english or morse code, and the app detects it automatically. </p>
 
-<h4> <a href="https://zadfashion.netlify.app">View Live Site</a> <span> · </span> <a href="https://github.com/Behzadsharafi/React-eShop/issues"> Report a Bug </a> <span> · </span> <a href="https://github.com/Behzadsharafi/React-eShop/issues"> Request a Feature </a> </h4>
+<h4> <a href="https://zadmorse.netlify.app/">View Live Site</a> <span> · </span> <a href="https://github.com/Behzadsharafi/MorseCodeTranslator/issues"> Report a Bug </a> <span> · </span> <a href="https://github.com/Behzadsharafi/MorseCodeTranslator/issues"> Request a Feature </a> </h4>
 
 </div>
 
@@ -27,17 +27,14 @@
 
 ### :camera: Quick Demo
 
-<div align="center"> <a href="https://zadfashion.netlify.app"><img src="/src/assets/demo.gif" alt='demo' width='800'/></a> </div>
+<div align="center"> <a href="https://zadmorse.netlify.app/"><img src="/images/demo.gif" alt='demo' width='800'/></a> </div>
 
 ### :dart: Features
 
-- Favorite items section
-- Different variations of each item
-- Shopping cart
-- Dynamic stock levels
+- Translating Latin to MorseCode and vice versa
+- Auto detecting the input language
+- Single-page application
 - Mobile-responsive
-- User-friendly
-- Modular code
 
 ## :toolbox: Getting Started
 
@@ -46,58 +43,42 @@
 Clone the project
 
 ```bash
-  git clone git@github.com:Behzadsharafi/React-eShop.git
+  git clone git@github.com:Behzadsharafi/MorseCodeTranslator.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React-eShop
+  cd MorseCodeTranslator
 ```
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
+Open the index.html through windows explorer or VS code Live Server.
 
 ## :wave: Contributing
 
-<a href="https://github.com/Behzadsharafi/React-eShop/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+<a href="https://github.com/Behzadsharafi/MorseCodeTranslator/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
 Contributions are always welcome!
 
-See [Contributing](https://github.com/Behzadsharafi/React-eShop/blob/master/CONTRIBUTING.md) for ways to get started.
+See [Contributing](https://github.com/Behzadsharafi/MorseCodeTranslator/blob/master/CONTRIBUTING.md) for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Behzadsharafi/React-eShop/blob/master/CODE_OF_CONDUCT.md).
+Please read the [Code of Conduct](https://github.com/Behzadsharafi/MorseCodeTranslator/blob/master/CODE_OF_CONDUCT.md).
 
 ## :computer: Built With
 
-- [React Js](https://react.dev/)
-- [SASS](https://sass-lang.com/): styling
-- [Google Firebase](https://firebase.google.com/): database
+- [JavaScript](https://www.javascript.com/)
+- [SASS](https://sass-lang.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Jest](https://jestjs.io/): testing
 
 ## :warning: License
 
-Distributed under the MIT License. See [License](https://github.com/Behzadsharafi/React-eShop/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [License](https://github.com/Behzadsharafi/MorseCodeTranslator/blob/master/LICENSE) for more information.
 
 ## :handshake: Contact
 
 Email: behzadsharafi@gmail.com
 
 Linkedin: [https://www.linkedin.com/in/zadsharafi/](https://www.linkedin.com/in/zadsharafi/)
-
-:radio: - Radio emoji, could symbolize communication.
-:keyboard: - Keyboard emoji, indicating coding or input.
-:symbols: - Symbols emoji, representing various symbols.
-:speech_balloon: - Speech Balloon emoji, representing communication.
-:signal_strength: - Signal Strength emoji, indicating communication signal.
-:pager: - Pager emoji, reminis
